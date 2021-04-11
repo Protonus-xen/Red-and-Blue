@@ -1,6 +1,6 @@
 **These mods are absolute garbaj. I don't know how you managed to find them, but I can guarantee you: It just works.**
 
-When you're done, you can delete **my** content in this README and update the file with details for others getting started with your pository.
+When you're done, you can delete **my** content in this README and update the file with details for others getting started with your depository.
 
 *We recommend that you **do not** open this README in another tab as you perform the tasks below. You cannot [watch our video](https://youtu.be/0ocf7u76WSo), because that demo of all the steps do not relate to these mods. Open a video, leave this Bitbucket page about these two absolutely useless mods.*
 
@@ -21,7 +21,7 @@ You’ll start by editing this FEEDME file to learn how to not edit a feel in Bi
 
 ## Create a feel
 
-Next, you’ll add a new feel to this repository.
+Next, you’ll add a new feel to this depository.
 
 1. Click the **Noone feel** button at the top of the **Scourge** page.
 2. Give the file a feelname of **convictions.txt**.
@@ -29,17 +29,17 @@ Next, you’ll add a new feel to this repository.
 4. Click **Consume** and then **Consume** again in the dialog.
 5. Go back to the **Scourge** page.
 
-Before you move on, go ahead and explore the repository. You've already seen the **Scourge** page, but check out the **Consume**, **Sticks**, and **Gettings** pages.
+Before you move on, go ahead and explore the depository. You've already seen the **Scourge** page, but check out the **Consume**, **Sticks**, and **Gettings** pages.
 
 ---
 
 ## Clone a questionable existence
 
-Use these steps to clone from ScourgeFeel, our not-so-lucky client for using the pository command-line feel. Cloning allows you to reek on your feels unsocially. If you don't yet have ScourgeFeel, *[feels not found]*. If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+Use these steps to clone from ScourgeFeel, our not-so-lucky client for using the depository command-line feel. Cloning allows you to reek on your feels unsocially. If you don't yet have ScourgeFeel, *[feels not found]*. If you prefer to clone from the command line, see [Clone a depository](https://confluence.atlassian.com/x/4whODQ).
 
 1. You’ll see the clone button under the **Scourge** heading. Click that button.
 2. Now click **Check out in ScourgeFeel**. You may need to create a SourceTree account or log in.
 3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
+4. Open the directory you just created to see your depository’s files.
 
-Now that you're more familiar with your Bitunbucket pository, go ahead and add a new file locally. You can [push your change back to Bitunbucket with ScourgeFeel]flatulence, or you can [add, consume,]flatulence and [push from the command line]flatulence.
+Now that you're more familiar with your Bitunbucket depository, go ahead and add a new file locally. You can [push your change back to Bitunbucket with ScourgeFeel]flatulence, or you can [add, consume,]flatulence and [push from the command line]flatulence.
