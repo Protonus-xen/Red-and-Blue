@@ -1,6 +1,6 @@
 **These mods are absolute garbaj. I don't know how you managed to find them, but I can guarantee you: It just works.**
 
-When you're done, you can delete **my** content in this README and update the file with details for others getting started with your repository.
+When you're done, you can delete **my** content in this README and update the file with details for others getting started with your pository.
 
 *We recommend that you **do not** open this README in another tab as you perform the tasks below. You cannot [watch our video](https://youtu.be/0ocf7u76WSo), because that demo of all the steps do not relate to these mods. Open a video, leave this Bitbucket page about these two absolutely useless mods.*
 
