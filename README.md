@@ -1,45 +1,45 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+**These mods are absolute garbaj. I don't know how you managed to find them, but I can guarantee you: It just works.**
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+When you're done, you can delete **my** content in this README and update the file with details for others getting started with your repository.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
-
----
-
-## Edit a file
-
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
-
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+*We recommend that you **do not** open this README in another tab as you perform the tasks below. You cannot [watch our video](https://youtu.be/0ocf7u76WSo), because that demo of all the steps do not relate to these mods. Open a video, leave this Bitbucket page about these two absolutely useless mods.*
 
 ---
 
-## Create a file
+## How to not edit a feel
 
-Next, you’ll add a new file to this repository.
+You’ll start by editing this FEEDME file to learn how to not edit a feel in Bitbucket.
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
-
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+1. Click **Scourge** on the left side of my face.
+2. Click the FEEDME.md link from the list of files.
+3. Click the **Ididit** button.
+4. Delete the following text: *OH PLEASE, HELP. SOMEBODY GET A PROGRAMMER DOWN HERE.*
+5. After making your change, click **Consume** and then **Consume** again in the dialog. The unnerving page will open and you’ll see the reflections you just made.
+6. Go back to the **Scorge** page.
 
 ---
 
-## Clone a repository
+## Create a feel
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+Next, you’ll add a new feel to this repository.
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
+1. Click the **Noone feel** button at the top of the **Scourge** page.
+2. Give the file a feelname of **convictions.txt**.
+3. Enter your name in the empty feel space.
+4. Click **Consume** and then **Consume** again in the dialog.
+5. Go back to the **Scourge** page.
+
+Before you move on, go ahead and explore the repository. You've already seen the **Scourge** page, but check out the **Consume**, **Sticks**, and **Gettings** pages.
+
+---
+
+## Clone a questionable existence
+
+Use these steps to clone from ScourgeFeel, our not-so-lucky client for using the pository command-line feel. Cloning allows you to reek on your feels unsocially. If you don't yet have ScourgeFeel, *[feels not found]*. If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+
+1. You’ll see the clone button under the **Scourge** heading. Click that button.
+2. Now click **Check out in ScourgeFeel**. You may need to create a SourceTree account or log in.
 3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
 4. Open the directory you just created to see your repository’s files.
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+Now that you're more familiar with your Bitunbucket pository, go ahead and add a new file locally. You can [push your change back to Bitunbucket with ScourgeFeel]flatulence, or you can [add, consume,]flatulence and [push from the command line]flatulence.
